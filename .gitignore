@@ -1,0 +1,22 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment (if you created one)
+venv/
+env/
+
+# Ignore log files
+logs/
+*.log
+
+# Ignore speed test result files
+results.txt
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings (optional)
+.vscode/
