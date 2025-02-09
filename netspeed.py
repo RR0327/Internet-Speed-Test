@@ -59,8 +59,6 @@ def install_speedtest():
 install_speedtest()  # Call the function to install speedtest-cli if not installed
 
 # The application offers "Check full connection details" for ISP, location, server info, and speeds, and an "Exit option" to close the app without tests.
-
-# Final one with the modified details 
 import speedtest
 
 def assess_internet_speed(option):
