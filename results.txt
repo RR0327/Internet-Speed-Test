@@ -1,4 +1,0 @@
-Download Speed: 27.19 Mbps
-Upload Speed: 27.54 Mbps
-Ping: 13.964 ms
-ISP: ICC Communication, Server: speedtest.bbts-online.net:8080 (Dhaka, Bangladesh), Download: 27.19 Mbps, Upload: 27.54 Mbps, Ping: 13.964 ms

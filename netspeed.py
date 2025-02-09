@@ -234,3 +234,11 @@ Results are logged with timestamps in speedtest.log for better debugging and tra
 
 
 """
+
+"""
+After updating project or modified more follow the following steps:
+
+git add .
+git commit -m "Updated feature X"
+git push origin main
+"""
