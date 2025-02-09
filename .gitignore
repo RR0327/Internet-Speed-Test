@@ -3,15 +3,13 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Ignore virtual environment (if you created one)
+# Ignore virtual environment
 venv/
 env/
 
-# Ignore log files
+# Ignore log files and result files
 logs/
 *.log
-
-# Ignore speed test result files
 results.txt
 
 # Ignore system files
