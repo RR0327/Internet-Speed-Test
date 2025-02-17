@@ -1,6 +1,6 @@
-# All module need here
+# All module 
 pip install speedtest-cli
-speedtest-cli                                                                                                                                            
+speedtest-cli                                   
 speedtest-cli -h
 speedtest-cli --help
 speedtest-cli --simple
