@@ -72,4 +72,4 @@ pip install speedtest-cli && speedtest-cli && speedtest-cli -h && speedtest-cli 
 
 ## License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for details.
