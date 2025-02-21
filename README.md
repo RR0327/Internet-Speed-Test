@@ -1,10 +1,10 @@
 ```markdown
-# Internet Speed Test
+<h1 align="center">Internet Speed Test</h1>
 
 Internet Speed Test is a Python-based command-line tool that allows users to measure their internet speed, including download and upload speeds, using the `speedtest-cli` module.
 
 ## Features
-
+---
 - **Measure Download Speed**: Tests the speed at which your device downloads data.
 - **Measure Upload Speed**: Tests the speed at which your device uploads data.
 - **Latency Measurement**: Checks the ping time to the nearest speed test server.
@@ -13,68 +13,65 @@ Internet Speed Test is a Python-based command-line tool that allows users to mea
 
 ---
 
-## Installation
+## Installation & Usage
+---
 
-### 1. Clone the repository:
+### 1. Clone the Repository:
 ```bash
 git clone https://github.com/your_username/Internet-Speed-Test.git
 cd Internet-Speed-Test
 ```
 
 ### 2. Install Dependencies:
-```bash
+```
 pip install speedtest-cli
 ```
 
----
-
-## Usage
-
-Run the following commands to test your internet speed:
-
-### **Basic Speed Test**
-```bash
+### 3. Run the Internet Speed Test:
+#### **Basic Speed Test**
+```
 speedtest-cli
 ```
 
-### **View Help Options**
-```bash
+#### **View Help Options**
+```
 speedtest-cli -h
 ```
 
-### **Display Simplified Results**
-```bash
+#### **Display Simplified Results**
+```
 speedtest-cli --simple
 ```
 
-### **Test with Bytes Instead of Bits**
-```bash
+#### **Test with Bytes Instead of Bits**
+```
 speedtest-cli --bytes
 ```
 
-### **Share Results via URL**
-```bash
+#### **Share Results via URL**
+```
 speedtest-cli --share
 ```
 
-### **Check Version**
-```bash
+#### **Check Version**
+```
 speedtest-cli --version
 ```
 
-### **Run All Tests at Once**
-```bash
+#### **Run All Tests at Once**
+```
 pip install speedtest-cli && speedtest-cli && speedtest-cli -h && speedtest-cli --help && speedtest-cli --simple && speedtest-cli --version && speedtest-cli --bytes && speedtest-cli --share
 ```
 
 ---
 
 ## Contributors
+---
 - **Your Name** – Md Rakibul Hassan
 
 ---
 
 ## License
+---
 This project is licensed under the **MIT License**.
-
 ```
