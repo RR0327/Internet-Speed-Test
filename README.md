@@ -63,4 +63,4 @@ pip install speedtest-cli && speedtest-cli && speedtest-cli -h && speedtest-cli 
 
 ## Contributors
 
-- **Your Name** – Md Rakibul Hassan
+– Md Rakibul Hassan
