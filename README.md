@@ -10,7 +10,6 @@ Internet Speed Test is a Python-based command-line tool that allows users to mea
 - **Results Sharing**: Option to generate a shareable link with test results.
 - **User-friendly Commands**: Provides various command-line options for easy testing.
 
----
 
 ## Installation & Usage
 
@@ -62,14 +61,6 @@ speedtest-cli --version
 pip install speedtest-cli && speedtest-cli && speedtest-cli -h && speedtest-cli --help && speedtest-cli --simple && speedtest-cli --version && speedtest-cli --bytes && speedtest-cli --share
 ```
 
----
-
 ## Contributors
 
 - **Your Name** – Md Rakibul Hassan
-
----
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for details.
