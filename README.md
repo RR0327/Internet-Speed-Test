@@ -3,7 +3,7 @@
 Internet Speed Test is a Python-based command-line tool that allows users to measure their internet speed, including download and upload speeds, using the `speedtest-cli` module.
 
 ## Features
----
+
 - **Measure Download Speed**: Tests the speed at which your device downloads data.
 - **Measure Upload Speed**: Tests the speed at which your device uploads data.
 - **Latency Measurement**: Checks the ping time to the nearest speed test server.
@@ -13,10 +13,10 @@ Internet Speed Test is a Python-based command-line tool that allows users to mea
 ---
 
 ## Installation & Usage
----
+
 
 ### 1. Clone the Repository:
-```bash
+```
 git clone https://github.com/your_username/Internet-Speed-Test.git
 cd Internet-Speed-Test
 ```
@@ -65,11 +65,11 @@ pip install speedtest-cli && speedtest-cli && speedtest-cli -h && speedtest-cli 
 ---
 
 ## Contributors
----
+
 - **Your Name** – Md Rakibul Hassan
 
 ---
 
 ## License
----
+
 This project is licensed under the **MIT License**.
