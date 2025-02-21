@@ -10,16 +10,50 @@ Internet Speed Test is a Python-based command-line tool that allows users to mea
 - **Results Sharing**: Option to generate a shareable link with test results.
 - **User-friendly Commands**: Provides various command-line options for easy testing.
 
-## Technologies Used
-
-- **Python**: The main programming language used for the project.
-- **speedtest-cli**: A Python module that interfaces with Speedtest.net for measuring internet speeds.
+---
 
 ## Installation
 
-To use this tool, follow these steps:
-
-### 1. Clone the Repository
-```bash
+### 1. Clone the repository:
 git clone https://github.com/your_username/Internet-Speed-Test.git
 cd Internet-Speed-Test
+
+### 2. Install Dependencies:
+pip install speedtest-cli
+
+---
+
+## Usage
+
+Run the following commands to test your internet speed:
+
+### **Basic Speed Test**
+speedtest-cli
+
+### **View Help Options**
+speedtest-cli -h
+
+### **Display Simplified Results**
+speedtest-cli --simple
+
+### **Test with Bytes Instead of Bits**
+speedtest-cli --bytes
+
+### **Share Results via URL**
+speedtest-cli --share
+
+### **Check Version**
+speedtest-cli --version
+
+### **Run All Tests at Once**
+
+pip install speedtest-cli && speedtest-cli && speedtest-cli -h && speedtest-cli --help && speedtest-cli --simple && speedtest-cli --version && speedtest-cli --bytes && speedtest-cli --share
+
+---
+
+## Contributors
+- **Your Name** –  Md Rakibul Hassan
+---
+
+## License
+This project is licensed under the **MIT License**.
