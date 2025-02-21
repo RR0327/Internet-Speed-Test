@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Internet Speed Test</h1>
 
 Internet Speed Test is a Python-based command-line tool that allows users to measure their internet speed, including download and upload speeds, using the `speedtest-cli` module.
@@ -74,4 +73,3 @@ pip install speedtest-cli && speedtest-cli && speedtest-cli -h && speedtest-cli 
 ## License
 ---
 This project is licensed under the **MIT License**.
-```
